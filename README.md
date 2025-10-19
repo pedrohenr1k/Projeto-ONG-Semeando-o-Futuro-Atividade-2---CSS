@@ -32,9 +32,6 @@ O objetivo desta atividade é consolidar o uso de **folhas de estilo em cascata 
 |
 |-- README.md (Este arquivo)
 
-markdown
-Copiar código
-
 ---
 
 ## ✨ Implementações Realizadas  
@@ -53,6 +50,5 @@ Copiar código
 ### 📋 Formulário de Cadastro  
 - Estilização completa dos campos de entrada (`input`, `select`, `textarea`).  
 - Feedback visual para campos obrigatórios e botões interativos.  
-- Uso de `:hover`, `:focus` e `:active` para melhorar a experiência do usuário (UX).  
 
 ---
